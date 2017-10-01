@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="asdasd:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="wordCount-1.0.war">
+      <element id="artifact" artifact-name="asdasd:war exploded" />
+    </root>
+  </artifact>
+</component>

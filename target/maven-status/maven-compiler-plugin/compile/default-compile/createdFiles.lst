@@ -1,0 +1,9 @@
+project\controller\WordCountController.class
+project\wordcount\WordCountThread.class
+project\controller\FileUploadController.class
+project\wordcount\IWordCountService.class
+project\wordcount\WordCountService.class
+project\util\StorageService.class
+project\controller\FileProccessController.class
+project\util\IStorageService.class
+project\SpringBootWebApplication.class
